@@ -1,3 +1,13 @@
+@charset "UFT-8";
+
 .cabecalho__container {
     display: flex;
+}
+
+.log__item {
+    margin-right: 200px;
+}
+
+.cabecalho__pesquisar__item{
+    margin-right: 150px;
 }
