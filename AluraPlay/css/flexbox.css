@@ -2,12 +2,8 @@
 
 .cabecalho__container {
     display: flex;
-}
-
-.log__item {
-    margin-right: 200px;
-}
-
-.cabecalho__pesquisar__item{
-    margin-right: 150px;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0px;
 }
