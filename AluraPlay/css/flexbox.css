@@ -121,6 +121,7 @@
         flex-direction: column-reverse;
     }
 
+    /* Não usar a propriedade order para organizar seus elementos, pois isso dificulta a leitura para os leitores de tela do navegador 
     .jogos {
         order: 3;
     }
@@ -135,5 +136,5 @@
 
     .maispagina {
         order: 4;
-    }
+    } */
 }
